@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/2076e52c-f0fb-4982-af9d-9ce065d16f56
 
 После этого запустите приложение Streamlit командой 
    ```bash
-   `streamlit run app.py`
+   streamlit run app.py
    ```
 
 Откройте браузер и перейдите по адресу [http://localhost:8501](http://localhost:8501), чтобы увидеть интерфейс.
