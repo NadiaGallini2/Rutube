@@ -12,11 +12,12 @@ https://github.com/user-attachments/assets/2076e52c-f0fb-4982-af9d-9ce065d16f56
 и перейдите в каталог проекта. 
 
 Затем убедитесь, что у вас установлен Python (рекомендуется версия 3.7 или выше), и установите необходимые зависимости, используя 
-`pip install -r requirements.txt`. 
+   ```bash
+      pip install -r requirements.txt streamlit
 
 После этого запустите приложение Streamlit командой 
-
-`streamlit run app.py`. 
+   ```bash
+   `streamlit run app.py`. 
 
 Откройте браузер и перейдите по адресу [http://localhost:8501](http://localhost:8501), чтобы увидеть интерфейс.
 
