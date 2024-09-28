@@ -1,7 +1,6 @@
 🌟 Быстрый старт в Рутуб – Рекомендуем видео с умом! 🚀
 
-[![Go_Rutube](https://github.com/user-attachments/assets/5733ccfd-a1b8-4e3c-805c-7df9c3b69a2c)](https://github.com/user-attachments/assets/4e899517-81f2-440e-962f-1374c8d6cc43)
-
+[![Go_Rutube](https://github.com/user-attachments/assets/2636c886-c714-4ab0-bc07-54d7ca7581ae)]
 
 ## Запуск проекта
 
