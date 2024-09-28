@@ -5,8 +5,9 @@ https://github.com/user-attachments/assets/2076e52c-f0fb-4982-af9d-9ce065d16f56
 ## Запуск проекта
 
 Чтобы запустить проект, выполните следующие шаги: сначала клонируйте репозиторий на свою машину с помощью
-
-`git clone https://github.com/NadiaGallini2/Rutube.git` 
+1. Сначала клонируйте репозиторий на свою машину с помощью команды:
+   ```bash
+   git clone https://github.com/NadiaGallini2/Rutube.git
 
 и перейдите в каталог проекта. 
 
