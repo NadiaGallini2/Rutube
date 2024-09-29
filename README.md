@@ -43,3 +43,20 @@ https://github.com/user-attachments/assets/d66495fd-da57-4204-9082-7588deaccf99
 python -m venv venv
 source venv/bin/activate  # Для Linux/Mac
 venv\Scripts\activate  # Для Windows
+```
+
+# Загрузка моделей
+```
+loaded_gsasrec_model = load_model('gsasrec_model.h5')
+loaded_bert4rec_model = load_model('bert4rec_model.h5')
+loaded_transformer_xlnet_model = load_model('transformer_xlnet_model.h5')
+loaded_word2vec_model = Word2Vec.load('word2vec_model.model')
+
+ensemble_recommendations = improve_with_transformer_xlnet(
+    bert4rec_recommendations, 
+    gsasrec_recommendations, 
+    loaded_transformer_xlnet_model, 
+    interaction_matrix, 
+    user_id, 
+    top_n=top_n
+)
