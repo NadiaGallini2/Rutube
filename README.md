@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/d66495fd-da57-4204-9082-7588deaccf99
 
 После этого запустите приложение Streamlit командой 
    ```bash
-   streamlit run app.py
+   streamlit run app_rutube.py
    ```
 
 Откройте браузер и перейдите по адресу [http://localhost:8501](http://localhost:8501), чтобы увидеть интерфейс.
